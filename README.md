@@ -6,5 +6,4 @@ This project predicts daily diesel prices in Nepal using historical data and ext
       
       Political risk index
       
-      Seasonal patterns
 
